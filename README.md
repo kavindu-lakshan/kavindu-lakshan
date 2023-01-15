@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##
 
-- 💬 Ask me about **Java, Python, ReactJS, HTML&CSS, JS, C, C++, R**
+- 💬 Ask me about **Java, Python, ReactJS, HTML&CSS, JS, C, C++, R, WordPress**
 
 ##
 
